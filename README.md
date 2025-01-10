@@ -4,16 +4,16 @@
 
 
 
-![Softdermont](https://github.com/user-attachments/assets/3d5f9ef2-525f-4d9c-86fb-1debb34a70b3)
+
 
 <div align="center" >
  
 
 <h1>Repositorio de Aprendizaje: Python y Robótica con Arduino </h1>
-  <img src="https://github.com/lauyader/lauyader/blob/main/Softdermont.jpg" alt="" srcset="">
+
 ![Uploading Softdermont.jpg…]()
 </div>
-
+![Softdermont](https://github.com/user-attachments/assets/3d5f9ef2-525f-4d9c-86fb-1debb34a70b3)
 ## Introducción
 Bienvenidos a este repositorio dedicado a explorar el emocionante mundo de la robótica a través de Python y Arduino.
 
