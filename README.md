@@ -2,11 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Bienvenido!;)](https://git.io/typing-svg)
 
+
+
+![Softdermont](https://github.com/user-attachments/assets/3d5f9ef2-525f-4d9c-86fb-1debb34a70b3)
+
 <div align="center" >
  
 
 <h1>Repositorio de Aprendizaje: Python y Robótica con Arduino </h1>
   <img src="https://github.com/lauyader/lauyader/blob/main/Softdermont.jpg" alt="" srcset="">
+![Uploading Softdermont.jpg…]()
 </div>
 
 ## Introducción
