@@ -9,7 +9,7 @@
 <div align="center" >
  
 
-<h1>Repositorio de Aprendizaje: Python y Robótica con Arduino </h1>
+<h1> Python y Robótica con Arduino </h1>
 
  ![Softdermont](https://github.com/user-attachments/assets/6cd07fb7-bb8f-438c-94f9-d4dfb7f01a09)
 
