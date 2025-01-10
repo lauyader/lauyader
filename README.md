@@ -51,9 +51,9 @@ Para organizar el contenido de forma clara y eficiente, puedes utilizar la sigui
 * Programación básica en Arduino
 * Conexión de sensores y actuadores
 ### Proyectos:
-** Robot seguidor de línea
-** Brazo robótico
-** Dron
+* Robot seguidor de línea
+* Brazo robótico
+* Dron
 Etc.
 # Recursos adicionales:
 * Libros recomendados
