@@ -45,6 +45,7 @@ Para organizar el contenido de forma clara y eficiente, puedes utilizar la sigui
 * Tutoriales de Python:
 * Fundamentos de Python
 * Programación orientada a objetos
+* Visión Artificial
 * Bibliotecas útiles para la robótica (NumPy, Matplotlib, etc.)
 * Tutoriales de Arduino:
 * Introducción a Arduino
