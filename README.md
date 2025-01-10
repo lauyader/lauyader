@@ -18,12 +18,16 @@ Combinar Python y Arduino: Aprende a programar tu Arduino desde Python para crea
 ## Desarrollar habilidades en robótica: 
 Construye robots desde cero, desde simples prototipos hasta proyectos más complejos.
 
-### ¿Qué encontrarás aquí?
+## ¿Qué encontrarás aquí?
 
-Tutoriales paso a paso: Explicaciones claras y concisas para cada concepto.
-Ejemplos de código: Código fuente listo para usar y modificar.
-Proyectos completos: Guías detalladas para construir robots que realizan diferentes tareas.
-Recursos adicionales: Libros, artículos y videos para profundizar tus conocimientos.
+### Tutoriales paso a paso: 
+Explicaciones claras y concisas para cada concepto.
+### Ejemplos de código: 
+Código fuente listo para usar y modificar.
+### Proyectos completos: 
+Guías detalladas para construir robots que realizan diferentes tareas.
+### Recursos adicionales: 
+Libros, artículos y videos para profundizar tus conocimientos.
 
 ## ¿Por qué aprender Python y Arduino?
 
