@@ -41,21 +41,21 @@ Si eres un principiante o un experto, este repositorio es para ti. ¡Aporta tus 
 ## Estructura del Repositorio:
 Para organizar el contenido de forma clara y eficiente, puedes utilizar la siguiente estructura:
 
-Introducción: Una breve presentación del repositorio y sus objetivos.
-Tutoriales de Python:
-Fundamentos de Python
-Programación orientada a objetos
-Bibliotecas útiles para la robótica (NumPy, Matplotlib, etc.)
-Tutoriales de Arduino:
-Introducción a Arduino
-Programación básica en Arduino
-Conexión de sensores y actuadores
-Proyectos:
-Robot seguidor de línea
-Brazo robótico
-Dron
+* Introducción: Una breve presentación del repositorio y sus objetivos.
+* Tutoriales de Python:
+* Fundamentos de Python
+* Programación orientada a objetos
+* Bibliotecas útiles para la robótica (NumPy, Matplotlib, etc.)
+* Tutoriales de Arduino:
+* Introducción a Arduino
+* Programación básica en Arduino
+* Conexión de sensores y actuadores
+### Proyectos:
+** Robot seguidor de línea
+** Brazo robótico
+** Dron
 Etc.
-Recursos adicionales:
-Libros recomendados
-Enlaces a sitios web y foros
-Videos tutoriales
+# Recursos adicionales:
+* Libros recomendados
+* Enlaces a sitios web y foros
+* Videos tutoriales
